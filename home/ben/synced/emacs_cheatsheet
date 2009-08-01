@@ -1,0 +1,19 @@
+C-<SPC> Mark
+C-l center cursor by scrolling
+C-g cancel
+C-u [num] repeat
+C-k kill to eol
+C-w kill region
+M-w copy region to kill ring
+C-y yank last
+M-y yank last+1
+C-x u undo
+
+C-x C-s save
+C-x s interactive save
+C-x C-f open
+
+C-x C-b list buffers
+C-x C-1 reduce to 1 buffer
+
+M-: eval
