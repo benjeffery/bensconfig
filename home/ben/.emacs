@@ -31,3 +31,14 @@
 
 ;; remove scrollbar
 (scroll-bar-mode -1)
+
+;;ido
+(require 'ido)
+(ido-mode t)
+
+;;Make last line have newline
+(setq require-final-newline t)
+
+;;hilight matching paren
+(require 'paren) (show-paren-mode t)
+
