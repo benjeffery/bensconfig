@@ -6,7 +6,7 @@
 ;;(setq interprogram-paste-function 'x-cut-buffer-or-selection-value)
 
 ;; no splash screen
-;;(setq inhibit-splash-screen t)
+(setq inhibit-splash-screen t)
 
 ;; Change title bar to reverse file path if the current buffer is a
 ;; real file or buffer name if it is just a buffer.
