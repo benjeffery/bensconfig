@@ -16,4 +16,11 @@ C-x C-f open
 C-x C-b list buffers
 C-x C-1 reduce to 1 buffer
 
+C-x 2 Split vert
+C-x 3 Split horiz
+
+C-x o switch window
+ 
 M-: eval
+
+http://www.enigmacurry.com/2009/01/21/autocompleteel-python-code-completion-in-emacs/
